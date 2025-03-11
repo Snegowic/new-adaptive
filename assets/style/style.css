@@ -49,6 +49,7 @@
 .c__title_1,
 .c__title_2 {
     text-transform: uppercase;
+    white-space: nowrap;
 }
 
 /* PK */
