@@ -297,6 +297,7 @@
     }
 
     .c__title_2 {
+        white-space: nowrap;
         padding: 8px 14px;
         color: #98989A;
         font-size: 18px;
